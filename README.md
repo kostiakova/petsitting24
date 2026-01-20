@@ -37,6 +37,7 @@ A registered account on petsitting24.ch
 Clone the repository:
 
 git clone [https://github.com/kostiakova/petsitting24.git](https://github.com/kostiakova/petsitting24.git)
+&& 
 cd petsitting24
 
 

@@ -4,7 +4,7 @@
 
 # petsitting24
 Automated selenium parser for site Petsitting24.ch
-🐾 BotSitting24.ch
+🐾 PetSitting24.ch
 
 Bot PetSitting24 is an automated Selenium-based scraper designed to monitor new pet-sitting job postings on petsitting24.ch. The bot sends instant Telegram notifications for new offers, including cropped screenshots of the most relevant details.
 
@@ -24,7 +24,7 @@ Telegram Integration: Detailed alerts sent directly to your chosen chat or chann
 
 To run this bot, you will need:
 
-Python 3.8+
+Python 3.13+
 
 Google Chrome (Stable version)
 

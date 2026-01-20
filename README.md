@@ -1,5 +1,5 @@
 
-![Image alt](https://github.com/{kostiakova}/{petsitting24}/raw/{main}/petsitting24.ch.png)
+![Image alt](https://github.com/kostiakova/petsitting24/blob/main/petsitting24.ch.png)
 
 
 # petsitting24

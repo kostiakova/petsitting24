@@ -34,27 +34,33 @@ A registered account on petsitting24.ch
 
 🚀 Installation
 
+```bash
 Clone the repository:
-
 git clone [https://github.com/kostiakova/petsitting24.git](https://github.com/kostiakova/petsitting24.git)
 && 
 cd petsitting24
-
+```
 
 Install dependencies:
 
+```bash
 pip install -r requirements.txt
-
+```
 
 Dependencies include: selenium, pyTelegramBotAPI, python-dotenv, and Pillow.
 
 Environment Setup:
 Create a .env file in the root directory:
 
+```python
 PET_SITTING_EMAIL=your_email@example.com
-PET_SITTING_PASSWORD=your_password
-TELEGRAM_BOT_TOKEN=123456789:ABCDefGhIJKlmNoPQRstUV
 
+
+PET_SITTING_PASSWORD=your_password
+
+
+TELEGRAM_BOT_TOKEN=123456789:ABCDefGhIJKlmNoPQRstUV
+```
 
 ⚙️ Configuration
 
@@ -72,7 +78,9 @@ BINARY_LOC: Path to your Chrome binary (essential for Linux environments).
 
 Simply start the script:
 
+```bash
 python auto_find.py
+```
 
 
 How it works:

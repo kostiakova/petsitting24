@@ -1,3 +1,7 @@
+
+![Image alt](https://github.com/{kostiakova}/{petsitting24}/raw/{main}/petsitting24.ch.png)
+
+
 # petsitting24
 Automated selenium parser for site Petsitting24.ch
 🐾 BotSitting24.ch
